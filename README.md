@@ -1,1 +1,1 @@
-# Shavadoop Implementation with Java.
+# MapReduce Implementation with Java.
